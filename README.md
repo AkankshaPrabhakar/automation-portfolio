@@ -63,8 +63,8 @@ This portfolio highlights my work, skills, and passion for building robust, main
 ---
 
 ## Connect with Me
-- https://www.linkedin.com/in/akanksha-prabhakar-19111999ap
-- [Resume](#) (Upload your resume PDF in this repo or link it here)  
+- [LinkedIn](https://www.linkedin.com/in/akanksha-prabhakar-19111999ap)
+- [Resume](./Akanksha_Prabhakar_Resume.pdf)  
 
 ---
 
