@@ -1,4 +1,4 @@
-# 🚀 Akanksha Prabhakar — Automation Testing Portfolio
+# Akanksha Prabhakar — Automation Testing Portfolio
 
 Welcome to my automation testing portfolio! I am an Automation Test Engineer with 5 years of experience specializing in **Tosca automation**, **API testing (Postman, REST Assured)**, and **CI/CD integration (Jenkins, GitHub Actions)**.  
 
@@ -6,7 +6,7 @@ This portfolio highlights my work, skills, and passion for building robust, main
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 - **Test Automation:** Tosca (CRM/Salesforce automation, TDS, TCD, recovery scenarios, dynamic objects handling)
 - **API Testing:** Postman, REST Assured, Newman CLI
 - **CI/CD:** Jenkins, GitHub Actions (test automation pipelines)
@@ -15,9 +15,9 @@ This portfolio highlights my work, skills, and passion for building robust, main
 
 ---
 
-## 📂 Portfolio Projects
+## Portfolio Projects
 
-### 🔹 **Postman API Testing**
+### **Postman API Testing**
 - Created collections to test REST APIs (e.g. ReqRes API)  
 - Validated status codes, response body, and headers  
 - Used **Newman** to run collections via CLI  
@@ -28,7 +28,7 @@ This portfolio highlights my work, skills, and passion for building robust, main
 
 ---
 
-### 🔹 **REST Assured API Automation**
+### **REST Assured API Automation**
 - Wrote API tests in Java using REST Assured + TestNG  
 - Performed CRUD operations, validated responses, chained API calls  
 - Integrated with Jenkins for automated API suite execution  
@@ -37,7 +37,7 @@ This portfolio highlights my work, skills, and passion for building robust, main
 
 ---
 
-### 🔹 **Tosca Automation Artifacts**
+### **Tosca Automation Artifacts**
 - Salesforce automation examples: account creation, opportunity workflows  
 - TDS/TCD setup screenshots and explanation  
 - Dynamic object handling strategy  
@@ -47,7 +47,7 @@ This portfolio highlights my work, skills, and passion for building robust, main
 
 ---
 
-### 🔹 **CI/CD Pipelines**
+### **CI/CD Pipelines**
 - Example Jenkinsfile and GitHub Actions YAML for automation execution  
 - Triggered API + Tosca CLI tests  
 - Published test reports  
@@ -56,16 +56,16 @@ This portfolio highlights my work, skills, and passion for building robust, main
 
 ---
 
-## 💡 Future Plans
+## Future Plans
 - Add Selenium WebDriver + API hybrid automation  
 - Contribute to open-source QA projects  
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - https://www.linkedin.com/in/akanksha-prabhakar-19111999ap
 - [Resume](#) (Upload your resume PDF in this repo or link it here)  
 
 ---
 
-🌟 *Thank you for visiting! This portfolio is a work in progress — stay tuned for updates!*
+ *Thank you for visiting! This portfolio is a work in progress — stay tuned for updates!*
